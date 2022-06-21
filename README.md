@@ -1,3 +1,5 @@
+<h1>感谢你能发现我!</h1>
+<h1>Thank for you found me!</h1>
 <h1>关于我</h1>
 <h1>About Me</h1>
 <h3>你好，我是刘致远（Arthur是我英文名）</h3>
